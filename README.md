@@ -1,5 +1,7 @@
 # LeanoteService
 蚂蚁笔记WIN平台伺服器后台
+<br>
+<br>
 ![运行](https://img.shields.io/badge/%E8%BF%90%E8%A1%8C-%E6%AD%A3%E5%B8%B8-brightgreen.svg)
 
 1. 安装mongodb
