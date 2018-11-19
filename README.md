@@ -10,3 +10,5 @@
 | SCRIPTPATH | C:\leanote (leanote 解压目录) |
 | leanotePath | %SCRIPTPATH%\bin\src\github.com\leanote |
 | GOPATH | %SCRIPTPATH%\bin |
+
+![截图](https://github.com/veluxa/LeanoteService/raw/master/Screenshot.png)
